@@ -3,8 +3,8 @@ services:
     image: dockurr/windows
     container_name: windows
     environment:
-      VERSION: "7"
-      USERNAME: "Zuzzyyuu"
+      VERSION: "10"
+      USERNAME: "Jackie"
       PASSWORD: "VlqL123"
       RAM_SIZE: "12G"
       CPU_CORES: "4"
